@@ -1,0 +1,3846 @@
+---
+build.dart --machine --full
+
+build.dart finished [3182 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [4804 ms]
+
+---
+build.dart --machine --changed=pubspec.lock --changed=pubspec.yaml --changed=web\clickcounter.dart --changed=we...
+
+build.dart finished [10584 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [4319 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2234 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2484 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2433 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2273 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"couldn't find imported asset \"font-roboto/roboto.html\" in package \"latetrain\".","line":10,"charStart":301,"charEnd":354}}]
+build.dart finished [2187 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Named entity expected. Got none.","line":10,"charStart":301,"charEnd":419}}]
+build.dart finished [2665 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Named entity expected. Got none.","line":10,"charStart":301,"charEnd":419}}]
+build.dart finished [2649 ms]
+
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Named entity expected. Got none.","line":10,"charStart":301,"charEnd":419}}]
+build.dart finished [8518 ms]
+
+---
+build.dart --machine --changed=web\latetrain.css
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Named entity expected. Got none.","line":10,"charStart":301,"charEnd":419}}]
+build.dart finished [2359 ms]
+
+---
+build.dart --machine --changed=web\latetrain.css
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Named entity expected. Got none.","line":10,"charStart":301,"charEnd":419}}]
+build.dart finished [2579 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Named entity expected. Got none.","line":10,"charStart":301,"charEnd":424}}]
+build.dart finished [2567 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Named entity expected. Got none.","line":10,"charStart":301,"charEnd":441}}]
+build.dart finished [2578 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Named entity expected. Got none.","line":10,"charStart":301,"charEnd":455}}]
+build.dart finished [2556 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Named entity expected. Got none.","line":10,"charStart":301,"charEnd":455}}]
+build.dart finished [2417 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Named entity expected. Got none.","line":13,"charStart":486,"charEnd":621}}]
+build.dart finished [2517 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"End tag (a) violates step 1, paragraph 1 of the adoption agency algorithm.","line":13,"charStart":741,"charEnd":745}}]
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Unexpected end tag (head). Ignored.","line":15,"charStart":830,"charEnd":837}}]
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Unexpected start tag (body).","line":16,"charStart":840,"charEnd":877}}]
+build.dart finished [2665 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2490 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2540 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"absolute paths not allowed: \"http://www.polymer-project.org/components/font-roboto/roboto.html\"","line":13,"charStart":486,"charEnd":578}}]
+build.dart finished [2277 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"absolute paths not allowed: \"http://www.polymer-project.org/components/font-roboto/roboto.html\"","line":13,"charStart":486,"charEnd":578}}]
+build.dart finished [2534 ms]
+
+---
+build.dart --machine --changed=web\roboto.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"absolute paths not allowed: \"http://www.polymer-project.org/components/font-roboto/roboto.html\"","line":13,"charStart":486,"charEnd":578}}]
+[{"method":"warning","params":{"file":"web/roboto.html","message":"Named entity expected. Got none.","line":9,"charStart":504,"charEnd":622}}]
+build.dart finished [2417 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/roboto.html","message":"Named entity expected. Got none.","line":9,"charStart":504,"charEnd":622}}]
+build.dart finished [2367 ms]
+
+---
+build.dart --machine --changed=web\roboto.html
+
+build.dart finished [2397 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Invalid character in attribute name","line":39,"charStart":1182,"charEnd":1197}}]
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Unexpected end tag (script). Ignored.","line":41,"charStart":1263,"charEnd":1272}}]
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"End tag (section) seen too early. Expected other end tag.","line":43,"charStart":1282,"charEnd":1292}}]
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"To run a polymer application, you need to call \"initPolymer\". You can either include a generic script tag that does this for you:'<script type=\"application/dart\">export \"package:polymer/init.dart\";</script>' or add your own script tag and call that function. Make sure the script tag is placed after all HTML imports.","line":32,"charStart":988,"charEnd":1025}}]
+build.dart finished [2291 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Invalid character in attribute name","line":39,"charStart":1182,"charEnd":1197}}]
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Unexpected end tag (script). Ignored.","line":41,"charStart":1263,"charEnd":1272}}]
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"End tag (section) seen too early. Expected other end tag.","line":43,"charStart":1282,"charEnd":1292}}]
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"To run a polymer application, you need to call \"initPolymer\". You can either include a generic script tag that does this for you:'<script type=\"application/dart\">export \"package:polymer/init.dart\";</script>' or add your own script tag and call that function. Make sure the script tag is placed after all HTML imports.","line":32,"charStart":988,"charEnd":1025}}]
+build.dart finished [2508 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Only one \"application/dart\" script tag per document is allowed.","line":45,"charStart":1406,"charEnd":1438}}]
+build.dart finished [2278 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Only one \"application/dart\" script tag per document is allowed.","line":45,"charStart":1403,"charEnd":1435}}]
+build.dart finished [2732 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Only one \"application/dart\" script tag per document is allowed.","line":45,"charStart":1403,"charEnd":1435}}]
+build.dart finished [2392 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2706 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2207 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2184 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2611 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2134 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2300 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2549 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2695 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2405 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2318 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2467 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2320 ms]
+
+---
+build.dart --machine --changed=web\test.txt
+
+build.dart finished [2884 ms]
+
+---
+build.dart --machine --changed=web\test.txt
+
+build.dart finished [2663 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2226 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2405 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2224 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2017 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2330 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2609 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2138 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2165 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html --removed=web\clickcounter.html
+
+build.dart finished [2102 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart --removed=web\clickcounter.dart
+
+build.dart finished [2292 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2162 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2056 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"paper-input\" not found.","line":24,"charStart":589,"charEnd":624}}]
+build.dart finished [2012 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"paper-input\" not found.","line":24,"charStart":589,"charEnd":624}}]
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"To run a polymer application, you need to call \"initPolymer\". You can either include a generic script tag that does this for you:'<script type=\"application/dart\">export \"package:polymer/init.dart\";</script>' or add your own script tag and call that function. Make sure the script tag is placed after all HTML imports.","line":30,"charStart":875,"charEnd":912}}]
+build.dart finished [2075 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"paper-input\" not found.","line":24,"charStart":589,"charEnd":624}}]
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"To run a polymer application, you need to call \"initPolymer\". You can either include a generic script tag that does this for you:'<script type=\"application/dart\">export \"package:polymer/init.dart\";</script>' or add your own script tag and call that function. Make sure the script tag is placed after all HTML imports.","line":30,"charStart":875,"charEnd":912}}]
+build.dart finished [2063 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"paper-input\" not found.","line":24,"charStart":589,"charEnd":624}}]
+build.dart finished [2017 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"paper-input\" not found.","line":24,"charStart":589,"charEnd":624}}]
+build.dart finished [2004 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2030 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2057 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2026 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2046 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2044 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"definition for Polymer element with tag name \"train-list\" not found.","line":29,"charStart":800,"charEnd":812}}]
+build.dart finished [2052 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"link rel=\"import\" missing href.","line":10,"charStart":301,"charEnd":341}}]
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"definition for Polymer element with tag name \"train-list\" not found.","line":30,"charStart":845,"charEnd":857}}]
+build.dart finished [2099 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"link rel=\"import\" missing href.","line":10,"charStart":301,"charEnd":341}}]
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"definition for Polymer element with tag name \"train-list\" not found.","line":30,"charStart":845,"charEnd":857}}]
+build.dart finished [2274 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2038 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2157 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2018 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2112 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2123 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2241 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2117 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2179 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2141 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2152 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"To run a polymer application, you need to call \"initPolymer\". You can either include a generic script tag that does this for you:'<script type=\"application/dart\">export \"package:polymer/init.dart\";</script>' or add your own script tag and call that function. Make sure the script tag is placed after all HTML imports.","line":30,"charStart":867,"charEnd":904}}]
+build.dart finished [2211 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"To run a polymer application, you need to call \"initPolymer\". You can either include a generic script tag that does this for you:'<script type=\"application/dart\">export \"package:polymer/init.dart\";</script>' or add your own script tag and call that function. Make sure the script tag is placed after all HTML imports.","line":30,"charStart":867,"charEnd":904}}]
+build.dart finished [2137 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"To run a polymer application, you need to call \"initPolymer\". You can either include a generic script tag that does this for you:'<script type=\"application/dart\">export \"package:polymer/init.dart\";</script>' or add your own script tag and call that function. Make sure the script tag is placed after all HTML imports.","line":30,"charStart":867,"charEnd":904}}]
+build.dart finished [2100 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2132 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2322 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2395 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2073 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2210 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2440 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2127 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2128 ms]
+
+---
+build.dart --machine --changed=web\latetrain.dart
+
+build.dart finished [2097 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2120 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2043 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2081 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2014 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2139 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2069 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-item\" not found.","line":18,"charStart":483,"charEnd":494}}]
+build.dart finished [2092 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-item\" not found.","line":18,"charStart":483,"charEnd":494}}]
+build.dart finished [2326 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-item\" not found.","line":18,"charStart":483,"charEnd":494}}]
+build.dart finished [2093 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2168 ms]
+
+---
+build.dart --machine --changed=web\test.txt
+
+build.dart finished [2257 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2209 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2127 ms]
+
+---
+build.dart --machine --changed=web\test.txt
+
+build.dart finished [2134 ms]
+
+---
+build.dart --machine --changed=web\test.txt
+
+build.dart finished [2125 ms]
+
+---
+build.dart --machine --changed=web\test.txt
+
+build.dart finished [2101 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2140 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2132 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2229 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2107 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2163 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2250 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2163 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2114 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2193 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2143 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"couldn't find imported asset \"lib/core_layout.html\" in package \"core_elements\".","line":2,"charStart":57,"charEnd":123}}]
+build.dart finished [2154 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2259 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2143 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2128 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2514 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2159 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2086 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-list\" not found.","line":18,"charStart":435,"charEnd":446}}]
+build.dart finished [2190 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"couldn't find imported asset \"lib/core_list.html\" in package \"core_elements\".","line":2,"charStart":57,"charEnd":121}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-list\" not found.","line":19,"charStart":500,"charEnd":511}}]
+build.dart finished [2184 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"couldn't find imported asset \"lib/core_list.html\" in package \"core_elements\".","line":2,"charStart":57,"charEnd":121}}]
+build.dart finished [2153 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"couldn't find imported asset \"lib/core_list.html\" in package \"core_elements\".","line":2,"charStart":57,"charEnd":121}}]
+build.dart finished [2142 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2490 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [5291 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2102 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2147 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2157 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2131 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2125 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2125 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2076 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2089 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2068 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2138 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2292 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2405 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2165 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2176 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2607 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2363 ms]
+
+---
+build.dart --machine --changed=pubspec.lock --changed=pubspec.yaml --changed=web\latetrain.css --changed=web\la...
+
+build.dart finished [11080 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2308 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2744 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2496 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2611 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2685 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2216 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2406 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2192 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2508 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2171 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2232 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2323 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2593 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2409 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2738 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2524 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2491 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2365 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2368 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2555 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2260 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3069 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2893 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2776 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2777 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2297 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3062 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2211 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2396 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2217 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2292 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2542 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2280 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2322 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2737 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2563 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2285 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2435 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2816 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3252 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2859 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2683 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2866 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2599 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2175 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3022 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2370 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2357 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2774 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3174 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2423 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2312 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2381 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2945 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2317 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2247 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3560 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2304 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2223 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2340 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2572 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2275 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2402 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3231 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2323 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2176 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2493 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2437 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2300 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2217 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2797 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3750 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2602 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2288 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3223 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3258 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2193 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2943 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2774 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3145 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2493 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2281 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2767 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2431 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2188 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2290 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2434 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2224 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2475 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2280 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2742 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2677 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2412 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2765 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2345 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2788 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2199 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2566 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2204 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2841 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2428 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2332 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2803 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2250 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2481 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2515 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2703 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2686 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2497 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2678 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2463 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2558 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2928 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2745 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2652 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2236 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2647 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2428 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2059 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2142 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2081 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2075 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2208 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2220 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2081 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2146 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [2635 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2102 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2108 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2441 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2144 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2062 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2073 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2079 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2048 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2181 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2245 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2244 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2103 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2215 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2215 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2237 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2173 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2093 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2175 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2175 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2125 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2213 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2079 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2104 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2191 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2166 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2098 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2317 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2776 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2116 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Invalid character in attribute name","line":8,"charStart":169,"charEnd":201}}]
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"Invalid character in attribute name","line":8,"charStart":169,"charEnd":216}}]
+build.dart finished [2119 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2162 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2136 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2530 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2230 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2452 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2103 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2162 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2067 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2300 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2267 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2200 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2182 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2205 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2459 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2149 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2161 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2078 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2408 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2362 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2069 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2117 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2141 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2110 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2459 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2071 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2043 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2200 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2045 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2135 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2045 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2429 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2128 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2098 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2157 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2119 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2591 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2163 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2162 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2044 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2094 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2113 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2351 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2095 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2122 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2818 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2463 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2609 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2618 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2379 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [3348 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2222 ms]
+
+---
+build.dart --machine --changed=web\gausskruger.js
+
+build.dart finished [2358 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [4950 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2378 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2494 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2512 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2435 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2625 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2318 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2692 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2512 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2525 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2865 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2548 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2669 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3226 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2908 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2368 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [4068 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2289 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2552 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2442 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected end tag (polymer-element). Ignored.","line":29,"charStart":799,"charEnd":817}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"script tag has \"src\" attribute and also has script text.","line":23,"charStart":518,"charEnd":584}}]
+build.dart finished [3119 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3056 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2822 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2766 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2749 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2778 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2824 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2745 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2443 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2558 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3709 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"error","params":{"file":"web/trainlist.html","message":"Nested polymer element definitions are not allowed.","line":26,"charStart":612,"charEnd":669}}]
+build failed with errors: {Transform polymer (Linter) on latetrain|web/trainlist.html threw error: Nested polymer element definitions are not allowed.}
+build.dart finished [3127 ms]
+
+---
+build.dart --machine --changed=web\gmap.dart
+[{"method":"error","params":{"file":"web/trainlist.html","message":"Nested polymer element definitions are not allowed.","line":26,"charStart":612,"charEnd":669}}]
+build failed with errors: {Transform polymer (Linter) on latetrain|web/trainlist.html threw error: Nested polymer element definitions are not allowed.}
+build.dart finished [3336 ms]
+
+---
+build.dart --machine --changed=web\gmap.dart
+[{"method":"error","params":{"file":"web/trainlist.html","message":"Nested polymer element definitions are not allowed.","line":26,"charStart":612,"charEnd":669}}]
+build failed with errors: {Transform polymer (Linter) on latetrain|web/trainlist.html threw error: Nested polymer element definitions are not allowed.}
+build.dart finished [2718 ms]
+
+---
+build.dart --machine --changed=web\gmap.dart
+[{"method":"error","params":{"file":"web/trainlist.html","message":"Nested polymer element definitions are not allowed.","line":26,"charStart":612,"charEnd":669}}]
+build failed with errors: {Transform polymer (Linter) on latetrain|web/trainlist.html threw error: Nested polymer element definitions are not allowed.}
+build.dart finished [3927 ms]
+
+---
+build.dart --machine --changed=web\gmap.dart
+[{"method":"error","params":{"file":"web/trainlist.html","message":"Nested polymer element definitions are not allowed.","line":26,"charStart":612,"charEnd":669}}]
+build failed with errors: {Transform polymer (Linter) on latetrain|web/trainlist.html threw error: Nested polymer element definitions are not allowed.}
+build.dart finished [3394 ms]
+
+---
+build.dart --machine --changed=web\gmap.dart
+[{"method":"error","params":{"file":"web/trainlist.html","message":"Nested polymer element definitions are not allowed.","line":26,"charStart":612,"charEnd":669}}]
+build failed with errors: {Transform polymer (Linter) on latetrain|web/trainlist.html threw error: Nested polymer element definitions are not allowed.}
+build.dart finished [3476 ms]
+
+---
+build.dart --machine --changed=web\gmap.dart
+[{"method":"error","params":{"file":"web/trainlist.html","message":"Nested polymer element definitions are not allowed.","line":26,"charStart":612,"charEnd":669}}]
+build failed with errors: {Transform polymer (Linter) on latetrain|web/trainlist.html threw error: Nested polymer element definitions are not allowed.}
+build.dart finished [3172 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart --removed=web\gmap.dart
+[{"method":"error","params":{"file":"web/trainlist.html","message":"Nested polymer element definitions are not allowed.","line":26,"charStart":612,"charEnd":669}}]
+build failed with errors: {Transform polymer (Linter) on latetrain|web/trainlist.html threw error: Nested polymer element definitions are not allowed.}
+build.dart finished [2255 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"error","params":{"file":"web/trainlist.html","message":"Nested polymer element definitions are not allowed.","line":26,"charStart":612,"charEnd":683}}]
+build failed with errors: {Transform polymer (Linter) on latetrain|web/trainlist.html threw error: Nested polymer element definitions are not allowed.}
+build.dart finished [2832 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3116 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+[{"method":"warning","params":{"file":"web/google-map-element.html","message":"Unexpected End of file. Expected DOCTYPE.","line":1,"charStart":0,"charEnd":0}}]
+build.dart finished [2313 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+[{"method":"warning","params":{"file":"web/google-map-element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":1,"charStart":0,"charEnd":71}}]
+build.dart finished [2984 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [4031 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2678 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2401 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2642 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3890 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [3122 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2337 ms]
+
+---
+build.dart --machine --clean
+
+build.dart finished [3033 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [2325 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [3580 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [3909 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2364 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2310 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2685 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected character after attribute value.","line":23,"charStart":542,"charEnd":579}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Invalid character in attribute name","line":23,"charStart":542,"charEnd":593}}]
+build.dart finished [2790 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3466 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [2820 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [2524 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [3051 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [2815 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2365 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [3586 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2961 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+[{"method":"warning","params":{"file":"web/google-map-element.html","message":"Unexpected end tag (polymer-element). Ignored.","line":10,"charStart":220,"charEnd":238}}]
+[{"method":"warning","params":{"file":"web/google-map-element.html","message":"Expected closing tag. Unexpected end of file.","line":9,"charStart":133,"charEnd":219}}]
+[{"method":"warning","params":{"file":"web/google-map-element.html","message":"definition for Polymer element with tag name \"polymer-elementpolymer-element\" not found.","line":9,"charStart":133,"charEnd":219}}]
+build.dart finished [4415 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2912 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [2675 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2869 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3050 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3971 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3766 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3525 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2671 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [2654 ms]
+
+---
+build.dart --machine --changed=build\web\gausskruger.js --changed=build\web\google-map-element.dart --changed=b...
+
+build.dart finished [4581 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2627 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [3192 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [3063 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [3358 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2796 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2506 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2961 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [2608 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [4304 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [3351 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3468 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [4348 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2343 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [3501 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [3305 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2458 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [2420 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [3298 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [2798 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [3936 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [3241 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [4167 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3182 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+[{"method":"warning","params":{"file":"web/google-map-element.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":2,"charStart":76,"charEnd":135}}]
+build.dart finished [2335 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2264 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [3174 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [2594 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [2664 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [3164 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [2903 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [2470 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [4559 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [2362 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [2651 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [3648 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.dart
+
+build.dart finished [4253 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2908 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [3184 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [3106 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2495 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2234 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"custom element \"google-map-element\" extends from \"\", but this tag will not include the default properties of \"\". To fix this, either write this tag as < is=\"google-map-element\"> or remove the \"extends\" attribute from the custom element declaration.","line":21,"charStart":519,"charEnd":539}}]
+build.dart finished [2243 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"custom element \"google-map-element\" extends from \"div\", but this tag will not include the default properties of \"div\". To fix this, either write this tag as <div is=\"google-map-element\"> or remove the \"extends\" attribute from the custom element declaration.","line":21,"charStart":519,"charEnd":539}}]
+build.dart finished [2276 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+[{"method":"warning","params":{"file":"web/google-map-element.html","message":"definition for Polymer element with tag name \"google-map-element\" not found.","line":2,"charStart":57,"charEnd":122}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"google-map-element\" not found.","line":21,"charStart":519,"charEnd":539}}]
+build.dart finished [2485 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2265 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"custom element \"google-map-element\" doesn't declare any type extensions. To fix this, either rewrite this tag as <google-map-element> or add 'extends=\"div\"' to the custom element declaration.","line":21,"charStart":519,"charEnd":548}}]
+build.dart finished [2316 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2215 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"custom element \"google-map-element\" extends from \"d\". Did you mean to write <d is=\"google-map-element\">?","line":21,"charStart":519,"charEnd":548}}]
+build.dart finished [2187 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2196 ms]
+
+---
+build.dart --machine --changed=web\google-map-element.html
+
+build.dart finished [2163 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2191 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2182 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2251 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2430 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2381 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2332 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2204 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2185 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2224 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2201 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2158 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2410 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2254 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3227 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2219 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2916 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2205 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2787 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2174 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2261 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2224 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3018 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2523 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2763 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3201 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2740 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3075 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3380 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [3046 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2822 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3055 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [3472 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2376 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2420 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2696 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3021 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3937 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3832 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2524 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3342 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3016 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2390 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2789 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [4015 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3148 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [3274 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2844 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2628 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2333 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2418 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2524 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2384 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2273 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2537 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2921 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-scaffold\" not found.","line":6,"charStart":257,"charEnd":272}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":275,"charEnd":324}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":329,"charEnd":343}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-menu\" not found.","line":9,"charStart":374,"charEnd":410}}]
+build.dart finished [2633 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2721 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3477 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3114 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [4312 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [4127 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2734 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3541 ms]
+
+---
+build.dart --machine --changed=web\trainlist.dart
+
+build.dart finished [2895 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2909 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3116 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3119 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2841 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2560 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3199 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3172 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":10,"charStart":494,"charEnd":508}}]
+build.dart finished [2931 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3318 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3212 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2660 ms]
+
+---
+build.dart --machine --clean
+
+build.dart finished [3219 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [3177 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3332 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2759 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3314 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":8,"charStart":367,"charEnd":416}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":9,"charStart":421,"charEnd":435}}]
+build.dart finished [2900 ms]
+
+---
+build.dart --machine --changed=web\designer.html
+[{"method":"warning","params":{"file":"web/designer.html","message":"Unexpected End of file. Expected DOCTYPE.","line":1,"charStart":0,"charEnd":0}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":8,"charStart":367,"charEnd":416}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":9,"charStart":421,"charEnd":435}}]
+build.dart finished [2398 ms]
+
+---
+build.dart --machine --changed=web\designer.html
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-scaffold/core-scaffold.html\" in package \"latetrain\".","line":1,"charStart":0,"charEnd":62}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-header-panel/core-header-panel.html\" in package \"latetrain\".","line":2,"charStart":63,"charEnd":133}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-menu/core-menu.html\" in package \"latetrain\".","line":3,"charStart":134,"charEnd":188}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-item/core-item.html\" in package \"latetrain\".","line":4,"charStart":189,"charEnd":243}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-icon-button/core-icon-button.html\" in package \"latetrain\".","line":5,"charStart":244,"charEnd":312}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-toolbar/core-toolbar.html\" in package \"latetrain\".","line":6,"charStart":313,"charEnd":373}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-field/core-field.html\" in package \"latetrain\".","line":7,"charStart":374,"charEnd":430}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-icon/core-icon.html\" in package \"latetrain\".","line":8,"charStart":431,"charEnd":485}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-input/core-input.html\" in package \"latetrain\".","line":9,"charStart":486,"charEnd":542}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-icons/core-icons.html\" in package \"latetrain\".","line":10,"charStart":543,"charEnd":599}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-menu/core-submenu.html\" in package \"latetrain\".","line":11,"charStart":600,"charEnd":657}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"google-map/google-map.html\" in package \"latetrain\".","line":12,"charStart":658,"charEnd":714}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"google-map/google-map-search.html\" in package \"latetrain\".","line":13,"charStart":715,"charEnd":778}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":15,"charStart":781,"charEnd":816}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-scaffold\" not found.","line":66,"charStart":1843,"charEnd":1877}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":67,"charStart":1884,"charEnd":1956}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":68,"charStart":1965,"charEnd":1997}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-field\" not found.","line":69,"charStart":2008,"charEnd":2100}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-icon\" not found.","line":70,"charStart":2113,"charEnd":2153}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-input\" not found.","line":71,"charStart":2178,"charEnd":2236}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-menu\" not found.","line":74,"charStart":2306,"charEnd":2412}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-item\" not found.","line":75,"charStart":2423,"charEnd":2537}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-item\" not found.","line":76,"charStart":2560,"charEnd":2669}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"google-map\" not found.","line":80,"charStart":2776,"charEnd":2922}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"google-map-search\" not found.","line":81,"charStart":2942,"charEnd":3046}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":8,"charStart":367,"charEnd":416}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":9,"charStart":421,"charEnd":435}}]
+build.dart finished [4224 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-scaffold/core-scaffold.html\" in package \"latetrain\".","line":1,"charStart":0,"charEnd":62}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-header-panel/core-header-panel.html\" in package \"latetrain\".","line":2,"charStart":63,"charEnd":133}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-menu/core-menu.html\" in package \"latetrain\".","line":3,"charStart":134,"charEnd":188}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-item/core-item.html\" in package \"latetrain\".","line":4,"charStart":189,"charEnd":243}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-icon-button/core-icon-button.html\" in package \"latetrain\".","line":5,"charStart":244,"charEnd":312}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-toolbar/core-toolbar.html\" in package \"latetrain\".","line":6,"charStart":313,"charEnd":373}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-field/core-field.html\" in package \"latetrain\".","line":7,"charStart":374,"charEnd":430}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-icon/core-icon.html\" in package \"latetrain\".","line":8,"charStart":431,"charEnd":485}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-input/core-input.html\" in package \"latetrain\".","line":9,"charStart":486,"charEnd":542}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-icons/core-icons.html\" in package \"latetrain\".","line":10,"charStart":543,"charEnd":599}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"core-menu/core-submenu.html\" in package \"latetrain\".","line":11,"charStart":600,"charEnd":657}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"google-map/google-map.html\" in package \"latetrain\".","line":12,"charStart":658,"charEnd":714}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"couldn't find imported asset \"google-map/google-map-search.html\" in package \"latetrain\".","line":13,"charStart":715,"charEnd":778}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":15,"charStart":781,"charEnd":816}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-scaffold\" not found.","line":66,"charStart":1843,"charEnd":1877}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":67,"charStart":1884,"charEnd":1956}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":68,"charStart":1965,"charEnd":1997}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-field\" not found.","line":69,"charStart":2008,"charEnd":2100}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-icon\" not found.","line":70,"charStart":2113,"charEnd":2153}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-input\" not found.","line":71,"charStart":2178,"charEnd":2236}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-menu\" not found.","line":74,"charStart":2306,"charEnd":2412}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-item\" not found.","line":75,"charStart":2423,"charEnd":2537}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"core-item\" not found.","line":76,"charStart":2560,"charEnd":2669}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"google-map\" not found.","line":80,"charStart":2776,"charEnd":2922}}]
+[{"method":"warning","params":{"file":"web/designer.html","message":"definition for Polymer element with tag name \"google-map-search\" not found.","line":81,"charStart":2942,"charEnd":3046}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":8,"charStart":367,"charEnd":416}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":9,"charStart":421,"charEnd":435}}]
+build.dart finished [3618 ms]
+
+---
+build.dart --machine --removed=web\designer.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":8,"charStart":367,"charEnd":416}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":9,"charStart":421,"charEnd":435}}]
+build.dart finished [2846 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2635 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3146 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2833 ms]
+
+---
+build.dart --machine --changed=pubspec.yaml
+
+build.dart finished [3112 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":8,"charStart":367,"charEnd":416}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":9,"charStart":421,"charEnd":435}}]
+build.dart finished [2507 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":8,"charStart":367,"charEnd":416}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":9,"charStart":421,"charEnd":435}}]
+build.dart finished [2995 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3536 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"incomplete packages/ path. It should have at least 3 segments packages/name/path-from-name's-lib-dir","line":2,"charStart":57,"charEnd":111}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"incomplete packages/ path. It should have at least 3 segments packages/name/path-from-name's-lib-dir","line":2,"charStart":57,"charEnd":111}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":8,"charStart":344,"charEnd":393}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":9,"charStart":398,"charEnd":412}}]
+build.dart finished [3298 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"couldn't find imported asset \"lib/core_elements.html\" in package \"core_elements\".","line":2,"charStart":57,"charEnd":125}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":8,"charStart":358,"charEnd":407}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":9,"charStart":412,"charEnd":426}}]
+build.dart finished [2457 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2820 ms]
+
+---
+build.dart --machine --changed=web\sampler-scaffold\README.md --changed=web\sampler-scaffold\bower.json --chang...
+[{"method":"warning","params":{"file":"web/sampler-scaffold/demo.html","message":"couldn't find imported asset \"web/core-item/core-item.html\" in package \"latetrain\".","line":13,"charStart":376,"charEnd":430}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/sampler-scaffold.html","message":"couldn't find imported asset \"web/core-toolbar/core-toolbar.html\" in package \"latetrain\".","line":17,"charStart":579,"charEnd":639}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/sampler-scaffold.html","message":"couldn't find imported asset \"web/core-drawer-panel/core-drawer-panel.html\" in package \"latetrain\".","line":18,"charStart":640,"charEnd":710}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/sampler-scaffold.html","message":"couldn't find imported asset \"web/core-header-panel/core-header-panel.html\" in package \"latetrain\".","line":19,"charStart":711,"charEnd":781}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/sampler-scaffold.html","message":"couldn't find imported asset \"web/core-icon-button/core-icon-button.html\" in package \"latetrain\".","line":20,"charStart":782,"charEnd":850}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/sampler-scaffold.html","message":"couldn't find imported asset \"web/core-item/core-item.html\" in package \"latetrain\".","line":21,"charStart":851,"charEnd":905}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/sampler-scaffold.html","message":"couldn't find imported asset \"web/core-menu/core-menu.html\" in package \"latetrain\".","line":22,"charStart":906,"charEnd":960}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/sampler-scaffold.html","message":"couldn't find imported asset \"web/core-menu/core-submenu.html\" in package \"latetrain\".","line":23,"charStart":961,"charEnd":1018}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/sampler-scaffold.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"../packages/polymer/polymer.html\">.","line":25,"charStart":1020,"charEnd":1096}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/sampler-scaffold.html","message":"definition for Polymer element with tag name \"core-drawer-panel\" not found.","line":30,"charStart":1166,"charEnd":1260}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/sampler-scaffold.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":32,"charStart":1266,"charEnd":1309}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/sampler-scaffold.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":34,"charStart":1317,"charEnd":1374}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/sampler-scaffold.html","message":"definition for Polymer element with tag name \"core-menu\" not found.","line":38,"charStart":1439,"charEnd":1492}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/sampler-scaffold.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":44,"charStart":1575,"charEnd":1662}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/sampler-scaffold.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":46,"charStart":1670,"charEnd":1727}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/sampler-scaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":48,"charStart":1743,"charEnd":1814}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/sampler-scaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":50,"charStart":1943,"charEnd":2029}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/index.html","message":"couldn't find imported asset \"web/polymer/polymer.html\" in package \"latetrain\".","line":14,"charStart":571,"charEnd":621}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/index.html","message":"couldn't find imported asset \"web/core-component-page/core-component-page.html\" in package \"latetrain\".","line":15,"charStart":624,"charEnd":698}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/index.html","message":"definition for Polymer element with tag name \"core-component-page\" not found.","line":20,"charStart":729,"charEnd":750}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/demo.html","message":"definition for Polymer element with tag name \"core-item\" not found.","line":35,"charStart":698,"charEnd":763}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/demo.html","message":"definition for Polymer element with tag name \"core-item\" not found.","line":36,"charStart":780,"charEnd":849}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/demo.html","message":"definition for Polymer element with tag name \"core-item\" not found.","line":37,"charStart":866,"charEnd":929}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/demo.html","message":"definition for Polymer element with tag name \"core-item\" not found.","line":38,"charStart":946,"charEnd":1009}}]
+[{"method":"warning","params":{"file":"web/sampler-scaffold/demo.html","message":"definition for Polymer element with tag name \"core-item\" not found.","line":39,"charStart":1026,"charEnd":1089}}]
+build.dart finished [2854 ms]
+
+---
+build.dart --machine --removed=web\sampler-scaffold\README.md --removed=web\sampler-scaffold\bower.json --remov...
+
+build.dart finished [2756 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"couldn't find imported asset \"lib/sample_scaffold.html\" in package \"core_elements\".","line":2,"charStart":57,"charEnd":127}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":8,"charStart":360,"charEnd":409}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":9,"charStart":414,"charEnd":428}}]
+build.dart finished [3712 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"couldn't find imported asset \"lib/sampler_scaffold.html\" in package \"core_elements\".","line":2,"charStart":57,"charEnd":128}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":8,"charStart":361,"charEnd":410}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":9,"charStart":415,"charEnd":429}}]
+build.dart finished [2723 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3006 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [2692 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [2797 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [3390 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/latetrain.html","message":"couldn't find imported asset \"lib/paper_tabs.html\" in package \"paper-elements\".","line":12,"charStart":394,"charEnd":460}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [2750 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [2508 ms]
+
+---
+build.dart --machine --changed=web\scaffold.html
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"couldn't find imported asset \"core-toolbar/core-toolbar.html\" in package \"latetrain\".","line":37,"charStart":1338,"charEnd":1398}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"couldn't find imported asset \"core-drawer-panel/core-drawer-panel.html\" in package \"latetrain\".","line":38,"charStart":1399,"charEnd":1469}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"couldn't find imported asset \"core-header-panel/core-header-panel.html\" in package \"latetrain\".","line":39,"charStart":1470,"charEnd":1540}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"couldn't find imported asset \"core-icon-button/core-icon-button.html\" in package \"latetrain\".","line":40,"charStart":1541,"charEnd":1609}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":42,"charStart":1611,"charEnd":1683}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"definition for Polymer element with tag name \"core-drawer-panel\" not found.","line":72,"charStart":2107,"charEnd":2201}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":80,"charStart":2311,"charEnd":2351}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":82,"charStart":2359,"charEnd":2373}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":83,"charStart":2382,"charEnd":2453}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [2946 ms]
+
+---
+build.dart --machine --changed=web\scaffold_master.html
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"couldn't find imported asset \"core-toolbar/core-toolbar.html\" in package \"latetrain\".","line":37,"charStart":1338,"charEnd":1398}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"couldn't find imported asset \"core-drawer-panel/core-drawer-panel.html\" in package \"latetrain\".","line":38,"charStart":1399,"charEnd":1469}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"couldn't find imported asset \"core-header-panel/core-header-panel.html\" in package \"latetrain\".","line":39,"charStart":1470,"charEnd":1540}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"couldn't find imported asset \"core-icon-button/core-icon-button.html\" in package \"latetrain\".","line":40,"charStart":1541,"charEnd":1609}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":42,"charStart":1611,"charEnd":1683}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"definition for Polymer element with tag name \"core-drawer-panel\" not found.","line":72,"charStart":2107,"charEnd":2201}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":80,"charStart":2311,"charEnd":2351}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":82,"charStart":2359,"charEnd":2373}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":83,"charStart":2382,"charEnd":2453}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/src/core-scaffold/core-scaffold.html\" in package \"latetrain\".","line":1,"charStart":0,"charEnd":63}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_toolbar.html\" in package \"latetrain\".","line":2,"charStart":64,"charEnd":108}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_drawer_panel.html\" in package \"latetrain\".","line":3,"charStart":109,"charEnd":158}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_header_panel.html\" in package \"latetrain\".","line":4,"charStart":159,"charEnd":208}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_icon_button.html\" in package \"latetrain\".","line":5,"charStart":209,"charEnd":257}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [3564 ms]
+
+---
+build.dart --machine --changed=web\scaffold.dart
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"couldn't find imported asset \"core-toolbar/core-toolbar.html\" in package \"latetrain\".","line":37,"charStart":1338,"charEnd":1398}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"couldn't find imported asset \"core-drawer-panel/core-drawer-panel.html\" in package \"latetrain\".","line":38,"charStart":1399,"charEnd":1469}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"couldn't find imported asset \"core-header-panel/core-header-panel.html\" in package \"latetrain\".","line":39,"charStart":1470,"charEnd":1540}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"couldn't find imported asset \"core-icon-button/core-icon-button.html\" in package \"latetrain\".","line":40,"charStart":1541,"charEnd":1609}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":42,"charStart":1611,"charEnd":1683}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"definition for Polymer element with tag name \"core-drawer-panel\" not found.","line":72,"charStart":2107,"charEnd":2201}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":80,"charStart":2311,"charEnd":2351}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":82,"charStart":2359,"charEnd":2373}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":83,"charStart":2382,"charEnd":2453}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/src/core-scaffold/core-scaffold.html\" in package \"latetrain\".","line":1,"charStart":0,"charEnd":63}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_toolbar.html\" in package \"latetrain\".","line":2,"charStart":64,"charEnd":108}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_drawer_panel.html\" in package \"latetrain\".","line":3,"charStart":109,"charEnd":158}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_header_panel.html\" in package \"latetrain\".","line":4,"charStart":159,"charEnd":208}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_icon_button.html\" in package \"latetrain\".","line":5,"charStart":209,"charEnd":257}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [2719 ms]
+
+---
+build.dart --machine --changed=web\scaffold.html
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"couldn't find imported asset \"lib/core-toolbar.html\" in package \"core_elements\".","line":37,"charStart":1338,"charEnd":1405}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"couldn't find imported asset \"lib/core-drawer-panel.html\" in package \"core_elements\".","line":38,"charStart":1406,"charEnd":1478}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"couldn't find imported asset \"lib/core-header-panel.html\" in package \"core_elements\".","line":39,"charStart":1479,"charEnd":1551}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"couldn't find imported asset \"lib/core-icon-button.html\" in package \"core_elements\".","line":40,"charStart":1552,"charEnd":1623}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"Missing definition for <polymer-element>, please add the following HTML import at the top of this file: <link rel=\"import\" href=\"packages/polymer/polymer.html\">.","line":42,"charStart":1625,"charEnd":1697}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"definition for Polymer element with tag name \"core-drawer-panel\" not found.","line":72,"charStart":2121,"charEnd":2215}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":80,"charStart":2325,"charEnd":2365}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":82,"charStart":2373,"charEnd":2387}}]
+[{"method":"warning","params":{"file":"web/scaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":83,"charStart":2396,"charEnd":2467}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/src/core-scaffold/core-scaffold.html\" in package \"latetrain\".","line":1,"charStart":0,"charEnd":63}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_toolbar.html\" in package \"latetrain\".","line":2,"charStart":64,"charEnd":108}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_drawer_panel.html\" in package \"latetrain\".","line":3,"charStart":109,"charEnd":158}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_header_panel.html\" in package \"latetrain\".","line":4,"charStart":159,"charEnd":208}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_icon_button.html\" in package \"latetrain\".","line":5,"charStart":209,"charEnd":257}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [2802 ms]
+
+---
+build.dart --machine --changed=web\scaffold.html
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/src/core-scaffold/core-scaffold.html\" in package \"latetrain\".","line":1,"charStart":0,"charEnd":63}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_toolbar.html\" in package \"latetrain\".","line":2,"charStart":64,"charEnd":108}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_drawer_panel.html\" in package \"latetrain\".","line":3,"charStart":109,"charEnd":158}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_header_panel.html\" in package \"latetrain\".","line":4,"charStart":159,"charEnd":208}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_icon_button.html\" in package \"latetrain\".","line":5,"charStart":209,"charEnd":257}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [2525 ms]
+
+---
+build.dart --machine --changed=web\scaffold.html
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/src/core-scaffold/core-scaffold.html\" in package \"latetrain\".","line":1,"charStart":0,"charEnd":63}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_toolbar.html\" in package \"latetrain\".","line":2,"charStart":64,"charEnd":108}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_drawer_panel.html\" in package \"latetrain\".","line":3,"charStart":109,"charEnd":158}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_header_panel.html\" in package \"latetrain\".","line":4,"charStart":159,"charEnd":208}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_icon_button.html\" in package \"latetrain\".","line":5,"charStart":209,"charEnd":257}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [4183 ms]
+
+---
+build.dart --machine --changed=web\scaffold.html
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/src/core-scaffold/core-scaffold.html\" in package \"latetrain\".","line":1,"charStart":0,"charEnd":63}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_toolbar.html\" in package \"latetrain\".","line":2,"charStart":64,"charEnd":108}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_drawer_panel.html\" in package \"latetrain\".","line":3,"charStart":109,"charEnd":158}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_header_panel.html\" in package \"latetrain\".","line":4,"charStart":159,"charEnd":208}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_icon_button.html\" in package \"latetrain\".","line":5,"charStart":209,"charEnd":257}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+[{"method":"error","params":{"file":"web/scaffold.html","message":"Invalid name \"scaffold\". Custom element names must have at least one dash and can't be any of the following names: annotation-xml, color-profile, font-face, font-face-src, font-face-uri, font-face-format, font-face-name, missing-glyph.","line":42,"charStart":1625,"charEnd":1692}}]
+build failed with errors: {Transform polymer (Linter) on latetrain|web/scaffold.html threw error: Invalid name "scaffold". Custom element names must have at least one dash and can't be any of the following names: annotation-xml, color-profile, font-face, font-face-src, font-face-uri, font-face-format, font-face-name, missing-glyph.}
+build.dart finished [3059 ms]
+
+---
+build.dart --machine --changed=web\scaffold.html
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/src/core-scaffold/core-scaffold.html\" in package \"latetrain\".","line":1,"charStart":0,"charEnd":63}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_toolbar.html\" in package \"latetrain\".","line":2,"charStart":64,"charEnd":108}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_drawer_panel.html\" in package \"latetrain\".","line":3,"charStart":109,"charEnd":158}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_header_panel.html\" in package \"latetrain\".","line":4,"charStart":159,"charEnd":208}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_icon_button.html\" in package \"latetrain\".","line":5,"charStart":209,"charEnd":257}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [4786 ms]
+
+---
+build.dart --machine --changed=web\scaffold.html
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/src/core-scaffold/core-scaffold.html\" in package \"latetrain\".","line":1,"charStart":0,"charEnd":63}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_toolbar.html\" in package \"latetrain\".","line":2,"charStart":64,"charEnd":108}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_drawer_panel.html\" in package \"latetrain\".","line":3,"charStart":109,"charEnd":158}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_header_panel.html\" in package \"latetrain\".","line":4,"charStart":159,"charEnd":208}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_icon_button.html\" in package \"latetrain\".","line":5,"charStart":209,"charEnd":257}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [2914 ms]
+
+---
+build.dart --machine --changed=web\scaffold.html
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/src/core-scaffold/core-scaffold.html\" in package \"latetrain\".","line":1,"charStart":0,"charEnd":63}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_toolbar.html\" in package \"latetrain\".","line":2,"charStart":64,"charEnd":108}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_drawer_panel.html\" in package \"latetrain\".","line":3,"charStart":109,"charEnd":158}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_header_panel.html\" in package \"latetrain\".","line":4,"charStart":159,"charEnd":208}}]
+[{"method":"warning","params":{"file":"web/scaffold_master.html","message":"couldn't find imported asset \"web/core_icon_button.html\" in package \"latetrain\".","line":5,"charStart":209,"charEnd":257}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [2537 ms]
+
+---
+build.dart --machine --removed=web\scaffold_master.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [4600 ms]
+
+---
+build.dart --machine --changed=web\scaffold.dart
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [2751 ms]
+
+---
+build.dart --machine --changed=web\scaffold.dart
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":7,"charStart":289,"charEnd":338}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":8,"charStart":343,"charEnd":357}}]
+build.dart finished [3570 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2880 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [3529 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3668 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart --removed=web\scaffold.dart
+
+build.dart finished [3262 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html --removed=web\scaffold.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"couldn't find imported asset \"web/scaffold.html\" in package \"latetrain\".","line":2,"charStart":57,"charEnd":97}}]
+build.dart finished [5358 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"couldn't find imported asset \"web/scaffold.html\" in package \"latetrain\".","line":2,"charStart":57,"charEnd":97}}]
+build.dart finished [2794 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2701 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [2770 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [2808 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [4035 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2878 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2779 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2704 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [3349 ms]
+
+---
+build.dart --machine --removed=web\google-map-element.html
+
+build.dart finished [2555 ms]
+
+---
+build.dart --machine --removed=web\google-map-element.dart
+
+build.dart finished [2548 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2521 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2523 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2486 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2676 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [2405 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3068 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [3162 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [2392 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2377 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2441 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2386 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2774 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2501 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2341 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2400 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2322 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2324 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2342 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2307 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2313 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2900 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2389 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2309 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [3049 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [3312 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [3206 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.dart
+
+build.dart finished [2581 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [2438 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [2999 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [2306 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [2538 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [3030 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [3032 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [2388 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-drawer-panel\" not found.","line":47,"charStart":1805,"charEnd":1899}}]
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":55,"charStart":2009,"charEnd":2049}}]
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":57,"charStart":2057,"charEnd":2071}}]
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":58,"charStart":2080,"charEnd":2151}}]
+build.dart finished [2389 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [3744 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-drawer-panel\" not found.","line":47,"charStart":1805,"charEnd":1899}}]
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":55,"charStart":2009,"charEnd":2049}}]
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-toolbar\" not found.","line":57,"charStart":2057,"charEnd":2071}}]
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":58,"charStart":2080,"charEnd":2151}}]
+build.dart finished [3244 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-drawer-panel\" not found.","line":47,"charStart":1796,"charEnd":1890}}]
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":55,"charStart":2000,"charEnd":2040}}]
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":58,"charStart":2071,"charEnd":2142}}]
+build.dart finished [2957 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-header-panel\" not found.","line":55,"charStart":1991,"charEnd":2031}}]
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":58,"charStart":2062,"charEnd":2133}}]
+build.dart finished [3502 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":58,"charStart":2053,"charEnd":2124}}]
+build.dart finished [3134 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [3431 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":58,"charStart":2053,"charEnd":2124}}]
+build.dart finished [3081 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":56,"charStart":2051,"charEnd":2122}}]
+build.dart finished [2474 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":56,"charStart":2051,"charEnd":2122}}]
+build.dart finished [3112 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":83,"charStart":2476,"charEnd":2547}}]
+build.dart finished [2430 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":83,"charStart":2476,"charEnd":2547}}]
+build.dart finished [2685 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":83,"charStart":2476,"charEnd":2547}}]
+build.dart finished [2500 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":83,"charStart":2476,"charEnd":2547}}]
+build.dart finished [2416 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":83,"charStart":2476,"charEnd":2547}}]
+build.dart finished [2395 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":117,"charStart":3075,"charEnd":3146}}]
+build.dart finished [2499 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":93,"charStart":2676,"charEnd":2747}}]
+build.dart finished [2860 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":91,"charStart":2672,"charEnd":2743}}]
+build.dart finished [2467 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":91,"charStart":2672,"charEnd":2743}}]
+build.dart finished [2629 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":91,"charStart":2672,"charEnd":2743}}]
+build.dart finished [2519 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":83,"charStart":2476,"charEnd":2547}}]
+build.dart finished [2520 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":83,"charStart":2476,"charEnd":2547}}]
+build.dart finished [3103 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":83,"charStart":2476,"charEnd":2547}}]
+build.dart finished [2480 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":84,"charStart":2496,"charEnd":2567}}]
+build.dart finished [2560 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":84,"charStart":2496,"charEnd":2567}}]
+build.dart finished [2445 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":83,"charStart":2476,"charEnd":2547}}]
+build.dart finished [2468 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":88,"charStart":2544,"charEnd":2615}}]
+build.dart finished [3172 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":117,"charStart":3081,"charEnd":3152}}]
+build.dart finished [2830 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":118,"charStart":3099,"charEnd":3170}}]
+build.dart finished [2495 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":117,"charStart":3092,"charEnd":3163}}]
+build.dart finished [2958 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainscaffold.html","message":"definition for Polymer element with tag name \"core-icon-button\" not found.","line":124,"charStart":3201,"charEnd":3272}}]
+build.dart finished [2451 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [2556 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [2581 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3525 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2454 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3134 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3455 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3330 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3095 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3157 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [3176 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2501 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [2597 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [3056 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [3324 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [2659 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [3375 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [3009 ms]
+
+---
+build.dart --machine --changed=web\latetrain.html
+
+build.dart finished [2395 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+
+build.dart finished [2579 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+
+build.dart finished [2366 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected character after attribute value.","line":19,"charStart":812,"charEnd":833}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Invalid character in attribute name","line":19,"charStart":812,"charEnd":833}}]
+build.dart finished [2456 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected character after attribute value.","line":26,"charStart":898,"charEnd":919}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Invalid character in attribute name","line":26,"charStart":898,"charEnd":919}}]
+build.dart finished [3826 ms]
+
+---
+build.dart --machine --changed=build\web\gausskruger.js --changed=build\web\google-map-element.dart --changed=b...
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected character after attribute value.","line":27,"charStart":966,"charEnd":987}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Invalid character in attribute name","line":27,"charStart":966,"charEnd":987}}]
+build.dart finished [3153 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected character after attribute value.","line":27,"charStart":975,"charEnd":996}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Invalid character in attribute name","line":27,"charStart":975,"charEnd":996}}]
+build.dart finished [3428 ms]
+
+---
+build.dart --machine --clean
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected character after attribute value.","line":27,"charStart":975,"charEnd":996}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Invalid character in attribute name","line":27,"charStart":975,"charEnd":996}}]
+build.dart finished [2763 ms]
+
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected character after attribute value.","line":27,"charStart":975,"charEnd":996}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Invalid character in attribute name","line":27,"charStart":975,"charEnd":996}}]
+build.dart finished [2993 ms]
+
+---
+build.dart --machine --clean
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected character after attribute value.","line":27,"charStart":975,"charEnd":996}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Invalid character in attribute name","line":27,"charStart":975,"charEnd":996}}]
+build.dart finished [2993 ms]
+
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected character after attribute value.","line":27,"charStart":975,"charEnd":996}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Invalid character in attribute name","line":27,"charStart":975,"charEnd":996}}]
+build.dart finished [2889 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected character after attribute value.","line":27,"charStart":954,"charEnd":975}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Invalid character in attribute name","line":27,"charStart":954,"charEnd":975}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"couldn't find imported asset \"web/train_scaffold.html\" in package \"latetrain\".","line":7,"charStart":383,"charEnd":429}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"definition for Polymer element with tag name \"train-scaffold\" not found.","line":18,"charStart":592,"charEnd":608}}]
+build.dart finished [2621 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected character after attribute value.","line":26,"charStart":898,"charEnd":919}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Invalid character in attribute name","line":26,"charStart":898,"charEnd":919}}]
+build.dart finished [2868 ms]
+
+---
+build.dart --machine --changed=web\trainlist.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected character after attribute value.","line":26,"charStart":898,"charEnd":919}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Invalid character in attribute name","line":26,"charStart":898,"charEnd":919}}]
+build.dart finished [2893 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected character after attribute value.","line":26,"charStart":898,"charEnd":919}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Invalid character in attribute name","line":26,"charStart":898,"charEnd":919}}]
+build.dart finished [2765 ms]
+
+---
+build.dart --machine --changed=web\trainscaffold.html
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected character after attribute value.","line":26,"charStart":898,"charEnd":919}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Invalid character in attribute name","line":26,"charStart":898,"charEnd":919}}]
+build.dart finished [2949 ms]
+
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected character after attribute value.","line":26,"charStart":898,"charEnd":919}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Invalid character in attribute name","line":26,"charStart":898,"charEnd":919}}]
+build.dart finished [3194 ms]
+
+---
+build.dart --machine --full
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Unexpected character after attribute value.","line":26,"charStart":898,"charEnd":919}}]
+[{"method":"warning","params":{"file":"web/trainlist.html","message":"Invalid character in attribute name","line":26,"charStart":898,"charEnd":919}}]
+build.dart finished [3477 ms]
+

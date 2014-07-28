@@ -1,0 +1,12 @@
+name: latetrain
+description: A sample Polymer application
+dependencies:
+  core_elements: any
+  google_maps: any
+  paper_elements: any
+  polymer: 0.12.0-dev
+  polymer_expressions: any
+  xml: any
+transformers:
+- polymer:
+    entry_points: web/latetrain.html
